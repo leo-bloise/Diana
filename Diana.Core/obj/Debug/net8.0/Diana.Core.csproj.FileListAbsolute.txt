@@ -1,0 +1,12 @@
+C:\Users\leona\source\repos\Diana\Diana.Core\bin\Debug\net8.0\Diana.Core.deps.json
+C:\Users\leona\source\repos\Diana\Diana.Core\bin\Debug\net8.0\Diana.Core.dll
+C:\Users\leona\source\repos\Diana\Diana.Core\bin\Debug\net8.0\Diana.Core.pdb
+C:\Users\leona\source\repos\Diana\Diana.Core\obj\Debug\net8.0\Diana.Core.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Diana\Diana.Core\obj\Debug\net8.0\Diana.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Diana\Diana.Core\obj\Debug\net8.0\Diana.Core.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Diana\Diana.Core\obj\Debug\net8.0\Diana.Core.AssemblyInfo.cs
+C:\Users\leona\source\repos\Diana\Diana.Core\obj\Debug\net8.0\Diana.Core.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Diana\Diana.Core\obj\Debug\net8.0\Diana.Core.dll
+C:\Users\leona\source\repos\Diana\Diana.Core\obj\Debug\net8.0\refint\Diana.Core.dll
+C:\Users\leona\source\repos\Diana\Diana.Core\obj\Debug\net8.0\Diana.Core.pdb
+C:\Users\leona\source\repos\Diana\Diana.Core\obj\Debug\net8.0\ref\Diana.Core.dll

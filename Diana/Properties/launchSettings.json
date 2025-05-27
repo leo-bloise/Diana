@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DianaDev": {
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "commandName": "Project"
+    }
+  }
+}
