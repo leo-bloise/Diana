@@ -1,4 +1,4 @@
-# Diana
+﻿# Diana ⚡
 
 Diana is C# Library for building Discord bots. It is design to e easy to use and flexible, allowing developers to create bots with minimal effort.
 
