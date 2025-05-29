@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Diana.Core.Host.Settings
+﻿namespace Diana.Core.Host.Settings
 {
     public class DiscordSettings
     {
+        /// <summary>
+        /// Discord bot token used for authentication with the Discord API.
+        /// </summary>
         public string Token { get; set; }
     }
 }

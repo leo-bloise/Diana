@@ -8,6 +8,9 @@ namespace Diana.Core.Host
 {
     public interface IClassLoader
     {
+        /// <summary>
+        /// Loads all command types from the assembly that implement ICommand interface.
+        /// </summary>
         IEnumerable<Type> LoadCommands();
     }
 }

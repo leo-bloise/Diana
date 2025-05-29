@@ -899,7 +899,7 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
-      "Diana.Core/1.0.0": {
+      "Diana.Core/0.0.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -2322,7 +2322,7 @@
         "version.txt"
       ]
     },
-    "Diana.Core/1.0.0": {
+    "Diana.Core/0.0.1": {
       "type": "project",
       "path": "../Diana.Core/Diana.Core.csproj",
       "msbuildProject": "../Diana.Core/Diana.Core.csproj"
@@ -2330,7 +2330,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Diana.Core >= 1.0.0"
+      "Diana.Core >= 0.0.1"
     ]
   },
   "packageFolders": {
@@ -2359,6 +2359,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\leona\\LocalNugetSource": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

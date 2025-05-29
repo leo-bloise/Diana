@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Diana.Core</id>
+    <version>0.0.1</version>
+    <authors>Leonardo Bloise</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="f08ce0f6f10a8a82efcdb8b646d935eb4546e0de" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Discord.Net" version="3.17.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="9.0.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting" version="9.0.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging" version="9.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\leona\source\repos\Diana\Diana.Core\bin\Release\net8.0\Diana.Core.dll" target="lib\net8.0\Diana.Core.dll" />
+  </files>
+</package>

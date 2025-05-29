@@ -2320,7 +2320,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "0.0.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\leona\\source\\repos\\Diana\\Diana.Core\\Diana.Core.csproj",
       "projectName": "Diana.Core",
@@ -2341,6 +2341,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\leona\\LocalNugetSource": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -10,6 +10,11 @@ using Microsoft.Extensions.Logging;
 
 namespace Diana.Core
 {
+    /// <summary>
+    /// DianaApplication is the main entry point for the Diana bot application.
+    /// It starts the Discord client, registers commands, and handles logging by default.
+    /// Besides, it uses the ISlashCommandListener to listen for slash commands and handle them accordingly.
+    /// </summary>
     public class DianaApplication : IHost
     {
         public IServiceProvider Services { get; private set; }

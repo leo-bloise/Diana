@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "35UkyjPsR0A=",
+  "dgSpecHash": "R3vDvIUCsRI=",
   "success": true,
   "projectFilePath": "C:\\Users\\leona\\source\\repos\\Diana\\Diana\\Diana.csproj",
   "expectedPackageFiles": [
@@ -49,7 +49,8 @@
     "C:\\Users\\leona\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512",
     "C:\\Users\\leona\\.nuget\\packages\\system.text.encodings.web\\9.0.5\\system.text.encodings.web.9.0.5.nupkg.sha512",
     "C:\\Users\\leona\\.nuget\\packages\\system.text.json\\9.0.5\\system.text.json.9.0.5.nupkg.sha512",
-    "C:\\Users\\leona\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+    "C:\\Users\\leona\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\diana.core\\0.0.1\\diana.core.0.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -50,6 +50,9 @@ namespace Diana.Core.Host
         /// It'll be used to listen for slash commands and handle them accordingly.
         /// </summary>
         public void RegisterSlashCommandListener();
+        //<summary>
+        /// Loads all commands from the specified assembly and registers them in the DI container.
+        /// </summary>
         public void LoadCommands();
     }
 }

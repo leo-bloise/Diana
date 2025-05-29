@@ -1,6 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+	<PackageId>Diana.Core</PackageId>
+	<Version>0.0.1</Version>
+	<Authors>Leonardo Bloise</Authors>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
@@ -11,5 +14,4 @@
 		<PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.5" />
 		<PackageReference Include="Microsoft.Extensions.Logging" Version="9.0.5" />
 	</ItemGroup>
-
 </Project>

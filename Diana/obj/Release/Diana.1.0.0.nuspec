@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Diana</id>
+    <version>1.0.0</version>
+    <authors>Diana</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="f08ce0f6f10a8a82efcdb8b646d935eb4546e0de" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Diana.Core" version="0.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\leona\source\repos\Diana\Diana\bin\Release\net8.0\Diana.runtimeconfig.json" target="lib\net8.0\Diana.runtimeconfig.json" />
+    <file src="C:\Users\leona\source\repos\Diana\Diana\bin\Release\net8.0\Diana.dll" target="lib\net8.0\Diana.dll" />
+  </files>
+</package>
